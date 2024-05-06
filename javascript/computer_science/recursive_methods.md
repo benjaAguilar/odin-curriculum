@@ -64,3 +64,4 @@ This section contains helpful links to related content. It isn't required, so co
 - [Visualize how recursion works on factorials](https://pythontutor.com/render.html#code=function%20calcFactorial%28num%29%20%7B%0A%20%20%20%20if%20%28num%20%3D%3D%3D%201%29%20%7B%0A%20%20%20%20%20%20%20%20return%201%3B%0A%20%20%20%20%7D%0A%20%20%20%20return%20num%20*%20calcFactorial%28num%20-%201%29%3B%0A%7D%0A%0AcalcFactorial%285%29%3B&cumulative=false&curInstr=2&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false)
 - You may want to watch this nice [FreeCodeCamp course on recursion](https://www.youtube.com/watch?v=IJDJ0kBx2LM&t=2333s).
 - [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w)
+- [To learn recursion you have to learn recursion](https://www.youtube.com/watch?v=J_SrjUai_aM)
